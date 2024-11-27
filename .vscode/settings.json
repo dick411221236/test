@@ -1,0 +1,12 @@
+{
+    "files.associations": {
+        "iosfwd": "cpp",
+        "iomanip": "cpp",
+        "iostream": "cpp",
+        "new": "cpp",
+        "cmath": "cpp",
+        "ostream": "cpp",
+        "cstdlib": "cpp",
+        "queue": "cpp"
+    }
+}
