@@ -1,4 +1,4 @@
-//用動態記憶體設立一個連續空間的2維陣列(C++)
+//用動態記憶體設立一個連續空間的2維陣列(C++
 #include<iostream>
 
 using namespace std;
