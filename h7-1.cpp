@@ -24,7 +24,7 @@ public:
     }
 };
 
-// 後綴樹類
+// 後綴樹類                                                                                                                                                             
 class SuffixTree {
 private:
     SuffixTreeNode *root;
